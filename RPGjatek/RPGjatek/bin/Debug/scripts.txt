@@ -1,0 +1,2 @@
+You wake up and you find yourself in a Dark forest.;Suddenly you hear screaming from the north, you have to choose to go check it or leave it.;Exits:;North;West
+You are walking towards the screaming.;You see an old man who is stuck in a beartrap. You decide to help him.;Tools:;Bare hands;Stick
