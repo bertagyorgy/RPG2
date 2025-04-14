@@ -1,0 +1,21 @@
+[ID:Start]
+TEXT:You wake up in a dark forest.
+TEXT:You hear screaming from the north...
+CHOICE:Go North=North1
+CHOICE:Go West=West1
+BG:forest.png
+
+[ID:North1]
+TEXT:You follow the scream and find an old man in a bear trap.
+TEXT:He is bleeding badly.
+CHOICE:Help him=HelpOldMan
+CHOICE:Leave him=IgnoreOldMan
+BG:forest.png
+
+[ID:West1]
+TEXT:The screams slowly fade away as you are walking further.
+TEXT:You found a suspiciously looking chest.
+CHOICE:Open it=OpenChest
+CHOICE:Ignore it=IgnoreChest
+BG:forest.png
+
